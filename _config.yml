@@ -15,7 +15,8 @@ description: Welcome to Melissa's Internet Corner; a cozy little corner of the i
 author: Melissa Garcia
 
 # Define site URL
-url: https://github.com/mgarc427/beautiful-jekyll/
+url: https://mgarc427.github.io
+baseurl: /beautiful-jekyll/
 
 # --- List of links in the navigation bar --- #
 
