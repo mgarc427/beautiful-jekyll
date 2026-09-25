@@ -24,7 +24,7 @@ gosling:
 
 # Ryan V Ryan Liquid Table
 
-![]({{site.url}}blob/master/assets/img/ryan-v-ryan.jpg)  
+![]({{site.url}}assets/img/ryan-v-ryan.jpg)  
 
 
 ## Lorem Ipsum
