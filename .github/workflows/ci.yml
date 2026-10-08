@@ -7,9 +7,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Build the site in the jekyll/builder container
-        run: |
-          export JEKYLL_VERSION=latest
-          docker run \
-          -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-          -e PAGES_REPO_NWO=${{ github.repository }} \
-          jekyll/builder:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+    run: |
+    export JEKYLL_VERSION=latest
+    docker run \
+    -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+    -e PAGES_REPO_NWO=${{ github.repository }} \
+    jekyll/builder:$JEKYLL_VERSION /bin/bash -c "git config --global --add safe.directory /srv/jekyll && chmod 777 /srv/jekyll && jekyll build --future"
