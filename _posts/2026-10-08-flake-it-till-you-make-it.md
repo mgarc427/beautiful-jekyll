@@ -24,5 +24,3 @@ The GitHub API uses **JSON(JavaScript Object Notation)** to send information. Th
 **GitHub -> GitHub API -> JSON -> gh package -> R**
 
 One benefit of using an API is that you don't have to manually collect information from GitHub. I can use R to request the information I need and then use it for analysis. This could be usefl when working with multiple repositories or when trying to analyze activity across GitHub projects.
-
-
