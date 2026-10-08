@@ -29,16 +29,31 @@ It can retrieve information such as:
 -Stars and forks
 -Repository activity
 
-Here's a code chunk:
+Here's an example code:
 
 ~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
+</>R
+library(gh)
+
+repo_info <- gh("/repos/r-lib/gh")
+
+repo_info$name
+repo_info$description
+repo_info$stargazers_count
+repo_info$forks_count
 ~~~
 
-And here is the same code with syntax highlighting:
+And here is the same code with a GitHub repository:
+
+~~~
+</>R
+repo_info <- gh("/repos/mgarc427/montyhall")
+
+repo_info$name
+repo_info$description
+repo_info$stargazers_count
+repo_info$forks_count
+~~~
 
 ```javascript
 var foo = function(x) {
@@ -47,14 +62,6 @@ var foo = function(x) {
 foo(3)
 ```
 
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
 
 ## Boxes
 You can add notification, warning and error boxes like this:
