@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The R Package: gh
-subtitle: The interface between GitHub API and R
+subtitle: An interface between R and the GitHub API
 cover-img: /assets/img/github_PJ_McDonnell_shutterstock.jpg
 thumbnail-img: /assets/img/1-github-explained.avif
 share-img: /assets/img/github_PJ_McDonnell_shutterstock.jpg
