@@ -11,10 +11,8 @@ date: 2026-10-08
 
 **The R package gh provides an interface between R and the GitHub API, making it possible to send requests to GitHub directly from R.**
 
-```
 </>R
 library(gh)
-```
 
 
 **The API returns information about the repository, including its name, description, number of stars, and number of forks. Because the response is returned as an R object, I can access individual pieces of information using $.**
