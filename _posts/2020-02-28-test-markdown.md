@@ -10,7 +10,6 @@ comments: true
 
 Throughout this course, we learned about working with data and using R to interact with different tools and APIs. Since we worked closely with GitHUb why not explore the GitHub API and learn how it can be used directly in R.
 
-**Here is some bold text**
 
 ## So what is the GitHub API?
 
@@ -18,7 +17,7 @@ Throughout this course, we learned about working with data and using R to intera
 **The GitHub API allows users to access information from GitHub programmatically. Instead of manually visiting a GitHub repository and looking through its information, we can use R to request that information and work with it as data.**
 
 
-![GitHub API](https://github.com/mgarc427/beautiful-jekyll/blob/Final_Code_Through_Explainer/assets/img/API-testing-using-Postman-and-GitHub-workflow.webp)
+![GitHub API](https://github.com/mgarc427/beautiful-jekyll/blob/Final_Code_Through_Explainer/assets/img/how-to-interact-github-api.png)
 
 It can also be centered!
 
