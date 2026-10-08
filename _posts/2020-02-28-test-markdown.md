@@ -12,11 +12,10 @@ Throughout this course, we learned about working with data and using R to intera
 
 **Here is some bold text**
 
-## Here is a secondary heading
+## So what is the GitHub API?
 
-So what is the GitHub API?
 
-The GitHub API allows users to access information from GitHub programmatically. Instead of manually visiting a GitHub repository and looking through its information, we can use R to request that information and work with it as data.
+**The GitHub API allows users to access information from GitHub programmatically. Instead of manually visiting a GitHub repository and looking through its information, we can use R to request that information and work with it as data.**
 
 
 ![GitHub API](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
