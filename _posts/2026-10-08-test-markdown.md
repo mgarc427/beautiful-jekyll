@@ -19,15 +19,9 @@ Throughout this course, we learned about working with data and using R to intera
 
 ![GitHub API](/beautiful-jekyll/assets/img/how-to-interact-github-api.png)
 
-It can retrieve information such as:
+**It can retrieve information such as:**
 
--Repostory information
--Users
--Issues
--Pull Requests
--Commits
--Stars and forks
--Repository activity
+**Repository information, Users, Issues, Pull Requests, Commits, Stars and forks, Repository activity**
 
 Here's an example code:
 
