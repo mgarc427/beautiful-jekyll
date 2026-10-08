@@ -55,26 +55,10 @@ repo_info$stargazers_count
 repo_info$forks_count
 ~~~
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+![GitHub API](/beautiful-jekyll/assets/img/how-to-interact-github-api.png)
 
 
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
+## Now try it out yourself!
 
 ### Error
 
