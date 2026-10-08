@@ -17,7 +17,7 @@ Throughout this course, we learned about working with data and using R to intera
 **The GitHub API allows users to access information from GitHub programmatically. Instead of manually visiting a GitHub repository and looking through its information, we can use R to request that information directly.**
 
 
-![GitHub API](/beautiful-jekyll/assets/img/path.jpg)
+![GitHub API](/beautiful-jekyll/assets/img/how-to-interact-github-api.png)
 
 It can also be centered!
 
