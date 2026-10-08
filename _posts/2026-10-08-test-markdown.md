@@ -55,7 +55,7 @@ repo_info$stargazers_count
 repo_info$forks_count
 ~~~
 
-![GitHub API](/beautiful-jekyll/assets/img/how-to-interact-github-api.png)
+![GitHub API](/beautiful-jekyll/assets/img/GitHub Example.png)
 
 
 ## Now try it out yourself!
