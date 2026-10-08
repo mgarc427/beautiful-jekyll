@@ -2,8 +2,6 @@
 
 source "https://rubygems.org"
 
-source "https://rubygems.org"
-
 gem "jekyll", "~> 4.2"
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
