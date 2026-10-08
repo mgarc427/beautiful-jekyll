@@ -23,12 +23,12 @@ baseurl: /beautiful-jekyll/
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  # About Me: "aboutme"
+  GitHub Visual:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"
-  Table Demo: "table-demo"
+  # Table Demo: "table-demo"
     
 # --- Logo --- #
 
