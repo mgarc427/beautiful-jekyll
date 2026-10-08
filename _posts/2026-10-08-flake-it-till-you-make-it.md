@@ -1,9 +1,8 @@
 ---
 layout: post
 title: The R Package: gh
-subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/github_PJ_McDonnell_shutterstock.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/1-github-explained.avif
 share-img: /assets/img/github_PJ_McDonnell_shutterstock.jpg
 tags: [books, test]
 date: 2026-10-08
