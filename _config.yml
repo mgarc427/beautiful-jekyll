@@ -6,10 +6,12 @@
 # --- Required options --- #
 
 # Name of website
-title: Melissa's Internet Corner
+# title: Melissa's Internet Corner
+title: Melissa Garcia's Internet Corner
 
 # Short description of your site
-description: Welcome to Melissa's Internet Corner; a cozy little corner of the internet filled with random thoughts, questionable decisions, fun finds, and whatever else Melissa feels like putting on here. Stay awhile and explore around.
+# description: Welcome to Melissa's Internet Corner; a cozy little corner of the internet filled with random thoughts, questionable decisions, fun finds, and whatever else Melissa feels like putting on here. Stay awhile and explore around.
+description: Explore how R can connect directly to GitHub and turn repository information into data you can analyze. 
 
 # Your name to show in the footer
 author: Melissa Garcia
@@ -73,7 +75,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: Welcome to Melissa's Internet Corner; a cozy little corner of the internet filled with random thoughts, questionable decisions, fun finds, and whatever else Melissa feels like putting on here. Stay awhile and explore around.
+rss-description: Explore how R can connect directly to GitHub and turn repository information into data you can analyze.
 # --- General options --- #
 
 # Select which social network share links to show in posts
@@ -107,21 +109,21 @@ post_search: true
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 # navbar-col: "#EAEAEA"
-navbar-col: "#A53860"
+navbar-col: "#62b6cb"
 # navbar-text-col: "#404040"
-navbar-text-col: "#404040"
+navbar-text-col: "#1b4965"
 # navbar-border-col: "#DDDDDD"
 navbar-border-col: "#f5a4a4"
 # page-col: "#FFFFFF"
-page-col: "#FFFFFF"
+page-col: "#bee9e8"
 # text-col: "#404040"
-text-col: "#404040"
+text-col: "#1b4965"
 # link-col: "#008AFF"
 link-col: "#98d2eb"
 # hover-col: "#0085A1"
 hover-col: "#DA627D"
 # footer-col: "#EAEAEA"
-footer-col: "#A53860"
+footer-col: "#62b6cb"
 # footer-text-col: "#777777"
 footer-text-col: "#777777"
 # footer-link-col: "#404040"
