@@ -60,7 +60,3 @@ repo_info$forks_count
 
 ## Now try it out yourself!
 
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
