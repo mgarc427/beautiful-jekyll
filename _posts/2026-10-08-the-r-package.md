@@ -3,7 +3,7 @@ layout: post
 title: "The R Package: gh"
 subtitle: "An interface between R and the GitHub API"
 cover-img: /assets/img/github_PJ_McDonnell_shutterstock.jpg
-thumbnail-img: /assets/img/1-github-explained.avif
+thumbnail-img: /assets/img/GitHub Neon.jpeg
 share-img: /assets/img/github_PJ_McDonnell_shutterstock.jpg
 tags: [books, test]
 date: 2026-10-08
