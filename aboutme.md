@@ -11,14 +11,13 @@ My name is Melissa Garcia and I am a current graduate student studying **Program
 
 **What do I do on my free time?**
 
-As a mom, when is there free time? However, from balancing parenting, online school, and a full-time job I still find time to enjoy some me time. I enjoy:
+From balancing parenting, online school, and a full-time job I still find time to enjoy some me time. I enjoy:
 
 - Going to the gym
 - Hanging out with family and friends
 - Traveling
 - Going to concerts
-- Drawing and painting
+- Watching movies (Not a huge fan of scary movies!)
 
 I also started a new hobby and bought myself a dj deck. **We will see how that goes!**
 
-Did I forget to mention I have a cat too, so I have two kids actually. I do also enjoy hanging out with my cat Ginny and watching movies together.
