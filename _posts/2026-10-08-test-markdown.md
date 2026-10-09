@@ -54,4 +54,4 @@ repo_info$forks_count
 
 ![GitHub API](/beautiful-jekyll/assets/img/GitHub Example.png)
 
-
+**Try it out with your montyhall project!**
