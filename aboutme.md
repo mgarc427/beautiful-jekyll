@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: A human with many different skills 
+cover-img: /assets/img/github_PJ_McDonnell_shutterstock.jpg
 ---
 
 **Hello there!**
