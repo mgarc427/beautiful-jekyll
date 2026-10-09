@@ -2,10 +2,6 @@
 layout: post
 title: Introduction
 subtitle: What is the GitHub API?
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-# tags: [test]
-comments: true
 ---
 
 Throughout this course, we learned about working with data and using R to interact with different tools and APIs. Since we worked closely with GitHUb why not explore the GitHub API and learn how it can help us access and analyze data from repositories!
