@@ -24,10 +24,10 @@ baseurl: /beautiful-jekyll/
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-    - Getting Started: "getstarted"
+  # Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  #  - Getting Started: "getstarted"
   # Table Demo: "table-demo"
     
 # --- Logo --- #
