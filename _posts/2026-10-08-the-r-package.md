@@ -42,7 +42,7 @@ repo_info <- gh("/repos/r-lib/gh")
 
 **When you insert into the code make sure you grab the user and name of the package**
 
-**repo_info <- gh("/repos/NoahZinsmeister/Rbnb")
+**repo_info <- gh("/repos/NoahZinsmeister/Rbnb")**
 
 ![GitHub API](/beautiful-jekyll/assets/img/Step 3.png)
 
@@ -50,10 +50,10 @@ Process the returned data as R objects
 
 ![GitHub API](/beautiful-jekyll/assets/img/Step 4.png)
 
-**You will see this list on R**
+**This list can be viewed on R**
 
 Then you can move around the codes with the R objects on the list
 
 ![GitHub API](/beautiful-jekyll/assets/img/Step 5.png)
 
-**This is an cleaner method if you are only looking for specific r objects in your GitHub API**
+**This is an cleaner method if you are only looking for specific r objects in your GitHub API!**
