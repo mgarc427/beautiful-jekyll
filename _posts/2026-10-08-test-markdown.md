@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction
+title: In Easier Terms
 subtitle: What is the GitHub API?
 ---
 
