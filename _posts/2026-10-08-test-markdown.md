@@ -21,7 +21,14 @@ Throughout this course, we learned about working with data and using R to intera
 
 **It can retrieve information such as:**
 
-**Repository information, Users, Issues, Pull Requests, Commits, Stars and forks, Repository activity**
+- Repository information
+- Users
+- Issues
+- Pull Requests
+- Commits
+- Stars and forks
+- Repository activity
+
 
 Here's an example code:
 
