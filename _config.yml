@@ -43,8 +43,8 @@ navbar-links:
 # then specify the following parameter
 # title-img: assets/img/GitHub Neon.jpeg
 
-# Image to show as the cover
-cover-img: /assets/img/images.jpeg
+# Image to show as the cover of the page
+cover-img: /assets/img/GitHub Neon.jpeg
 
 # --- Footer social media links --- #
 
