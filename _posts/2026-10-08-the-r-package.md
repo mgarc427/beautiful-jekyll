@@ -11,9 +11,8 @@ date: 2026-10-08
 
 **The R package gh provides an interface between R and the GitHub API, making it possible to send requests to GitHub directly from R.**
 
-```R
 library(gh)
-```
+
 
 **The API returns information about the repository, including its name, description, number of stars, and number of forks. Because the response is returned as an R object, I can access individual piec[...]
 
@@ -24,3 +23,7 @@ The GitHub API uses **JSON(JavaScript Object Notation)** to send information. Th
 **GitHub -> GitHub API -> JSON -> gh package -> R**
 
 One benefit of using an API is that you don't have to manually collect information from GitHub. I can use R to request the information I need and then use it for analysis. This could be usefl when wor[...]
+
+**Let's do a step by step:**
+
+
