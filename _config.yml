@@ -24,6 +24,7 @@ baseurl: /beautiful-jekyll/
 
 navbar-links:
   About Me: "aboutme"
+  CV: https://mgarc427.github.io/cv-example/
   # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
