@@ -26,7 +26,7 @@ Throughout this course, we learned about working with data and using R to intera
 - Repository activity
 
 
-Here's an example code:
+Here's the example code you can use:
 
 ~~~
 </>R
@@ -40,7 +40,7 @@ repo_info$stargazers_count
 repo_info$forks_count
 ~~~
 
-And here is the same code with a GitHub repository:
+Here is the same code with a GitHub repository of your own you can try:
 
 ~~~
 </>R
@@ -55,5 +55,5 @@ repo_info$forks_count
 ![GitHub API](/beautiful-jekyll/assets/img/GitHub Example.png)
 
 
-## Now try it out yourself!
+## Now try it out your code!
 
