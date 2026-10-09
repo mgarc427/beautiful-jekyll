@@ -40,7 +40,7 @@ repo_info$stargazers_count
 repo_info$forks_count
 ~~~
 
-Here is the same code with a GitHub repository of your own you can try:
+Now here is the same code when you place a GitHub repository to try:
 
 ~~~
 </>R
@@ -54,6 +54,4 @@ repo_info$forks_count
 
 ![GitHub API](/beautiful-jekyll/assets/img/GitHub Example.png)
 
-
-## Now try it out your code!
 
