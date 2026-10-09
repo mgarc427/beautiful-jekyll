@@ -27,7 +27,33 @@ One benefit of using an API is that you don't have to manually collect informati
 
 ## Let's do a step by step:
 
-1. Install the gh package
-2. Load the library
-3. Make API calls to GitHub
-4. Process the returned data as R objects
+Install the gh package onto your r studio using the code above
+
+Then you will load the library
+
+You can then search APIs on Github
+![GitHub API](/beautiful-jekyll/assets/img/Step 1.png)
+
+Once you chose you will then insert the API into this r code 
+
+library(gh)
+
+repo_info <- gh("/repos/r-lib/gh")
+
+**When you insert into the code make sure you grab the user and name of the package**
+
+**repo_info <- gh("/repos/NoahZinsmeister/Rbnb")
+
+![GitHub API](/beautiful-jekyll/assets/img/Step 3.png)
+
+Process the returned data as R objects
+
+![GitHub API](/beautiful-jekyll/assets/img/Step 4.png)
+
+**You will see this list on R**
+
+Then you can move around the codes with the R objects on the list
+
+![GitHub API](/beautiful-jekyll/assets/img/Step 5.png)
+
+**This is an cleaner method if you are only looking for specific r objects in your GitHub API**
