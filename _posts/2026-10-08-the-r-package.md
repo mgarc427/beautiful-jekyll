@@ -56,4 +56,4 @@ Then you can move around the codes with the R objects on the list
 
 ![GitHub API](/beautiful-jekyll/assets/img/Step 5.png)
 
-**This is an cleaner method if you are only looking for specific r objects in your GitHub API!**
+**This is a cleaner method if you are only looking for specific r objects in your GitHub API!**
